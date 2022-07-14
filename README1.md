@@ -1,9 +1,8 @@
-# Bem vindo ao meu repositorio 
+# Bem vindo(a) ao meu repositorio 
 
 
 ## equipe :
--Ricardo
--renata
--pedro
--gabrel
-
+- Ricardo
+- renata
+- pedro
+- gabrel
