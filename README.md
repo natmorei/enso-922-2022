@@ -2,10 +2,10 @@
 
 ## Equipe:
 
-- Pedro Henrique 
-- Gabriel
-- Renata
-- Ricardo
+- Pedro Henrique barbosa jatoba 
+- Gabriel souza da silva
+- Renata moreira dos santos
+- Ricardo moreira dos santos
 
 ## Software Alvo
 
