@@ -2,7 +2,7 @@
 
 ## Equipe:
 
-- Pedro Henrique
+- Pedro Henrique 
 - Gabriel
 - Renata
 - Ricardo
