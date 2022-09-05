@@ -1,0 +1,4 @@
+app/Divisao$Module.class
+app/Divisao.class
+app/App.class
+META-INF/services/io.jooby.MvcFactory
