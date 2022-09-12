@@ -3,7 +3,6 @@ package app;
 import io.jooby.Jooby;
 
 public class App extends Jooby {
-
   {
     get("/", ctx -> "Bem vindos a API Jooby! Para mais informacoes, digite /help na URL.");
     mvc(new Controller());
@@ -13,5 +12,4 @@ public class App extends Jooby {
   public static void main(final String[] args) {
     runApp(args, App::new);
   }
-
 }
