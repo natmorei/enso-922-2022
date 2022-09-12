@@ -7,6 +7,7 @@ public class App extends Jooby {
     get("/", ctx -> "Bem vindos a API Jooby! Para mais informacoes, digite /help na URL.");
     mvc(new Controller());
     mvc(new Multiplicacao());
+    mvc(new Subtracao());
   }
 
   public static void main(final String[] args) {
