@@ -29,5 +29,10 @@ public class SomaTest {
         double resut = soma.Soma(10, 0);
         assertEquals(10,resut);
     }
-
+    
+    @Test 
+    public void somaDeNegativo(){
+        double result = soma.Soma(10, -2);
+        assertEquals(8,result);
+    }
 }
